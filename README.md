@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-    <img src="[https://github.com/cesardevpython/cesardevpython/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake animation](https://github.com/cesardevpython/cesardevpython/blob/output/github-contribution-grid-snake.gif?raw=true)" />
+    ![snake animation](https://github.com/<cesardevpython>/<cesardevpython>/blob/output/github-contribution-grid-snake2.svg)
 </p>
