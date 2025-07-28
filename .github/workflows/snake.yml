@@ -14,7 +14,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: cesardevpython # <-- MUITO IMPORTANTE: Substitua pelo seu nome de usuário do GitHub
+          github_user_name: cesardevpython # <-- Mantenha seu nome de usuário aqui
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
