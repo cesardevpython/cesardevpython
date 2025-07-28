@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcesarhsilva&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcesarhsilva&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
