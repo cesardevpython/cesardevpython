@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&random=false&width=650&lines=QA+T%C3%A9cnico+em+formac%C3%A3o+com+foco+em+Python+%26+Automatiza%C3%A7%C3%A3o;Buscando+excel%C3%AAncia+em+testes+automatizados+e+qualidade+de+software" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&random=false&width=700&lines=T%C3%A9cnico+em+formac%C3%A3o+com+foco+em+Python+e+Automatiza%C3%A7%C3%A3o+de+Testes+de+Software" alt="Typing SVG">
   </a>
 </div>
 
@@ -22,9 +22,9 @@
 
 ### 👨‍🎓 Sobre mim
 
-- 📍 QA Técnico em formação, com foco em testes manuais e automatizados
+- 📍 Técnico em formação, com foco em testes manuais e automatizados
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023)
-- 🎓 Pós-graduado em Engenharia de Software (2024-2025)
+- 🎓 Pós-graduado em Engenharia de Software (2024–2025)
 - 💻 Apaixonado por Python, testes com Pytest e Selenium WebDriver
 - 🧠 Estudando: Testes de API com Postman, CI/CD e cobertura de testes
 - 💡 Buscando minha primeira oportunidade profissional na área de qualidade de software
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </div>
 
 - **Testes Automatizados**: Pytest, Selenium, Unittest  
@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devcesarhsilva/devcesarhsilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/devcesarhsilva/devcesarhsilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
