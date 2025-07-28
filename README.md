@@ -71,6 +71,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devcesarhsilva/devcesarhsilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+<p align="center">
+    <img src="https://github.com/cesardevpython/cesardevpython/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake animation" />
+</p>
