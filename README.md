@@ -51,9 +51,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </p>
 </div>
+
 
 ---
 
