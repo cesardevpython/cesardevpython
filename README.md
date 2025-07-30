@@ -50,23 +50,32 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=cesardevpython&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight" height="180" />
+
+  <!-- Streak de contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesardevpython&theme=tokyonight" height="180"/>
+
+  <!-- Troféus de Contribuidor -->
+  <img src="https://github-profile-trophy.vercel.app/?username=cesardevpython&theme=onedark&no-frame=true&column=3" />
+
+</div>
 
 ---
+
+### 🐍 Snake Game de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cesardevpython/cesardevpython/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cesardevpython/cesardevpython/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/cesardevpython/cesardevpython/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ### 📌 Repositórios em Destaque
 
