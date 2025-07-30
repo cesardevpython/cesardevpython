@@ -51,22 +51,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </p>
-</div>
-
+  <img heights="180em" src="https://github-readme-stats.vercel.app/api?username=cesardevpython&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardevpython&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 ---
 
 ### 📌 Repositórios em Destaque
 
-- 🔹 `qa-automation-pytest`: Automação de testes web com Pytest e Selenium  
-- 🔹 `api-testing-python`: Testes de API REST com Python e Requests  
-- 🔹 `qa-manual-scenarios`: Casos de teste e simulação de bugs reais
+- 🔹 qa-automation-pytest: Automação de testes web com Pytest e Selenium  
+- 🔹 api-testing-python: Testes de API REST com Python e Requests  
+- 🔹 qa-manual-scenarios: Casos de teste e simulação de bugs reais
 
 ---
 
